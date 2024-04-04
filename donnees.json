@@ -1,164 +1,20 @@
 [
-    {
-      "id": 1,
-      "Nom de projet": "Projet Alpha",
-      "responsable": "Alice",
-      "status de projet": "En cours",
-      "date debut": "2023-01-10",
-      "date fin": "2023-05-20"
-    },
-    {
-      "id": 2,
-      "Nom de projet": "Projet Beta",
-      "responsable": "Bob",
-      "status de projet": "Terminé",
-      "date debut": "2023-02-15",
-      "date fin": "2023-06-30"
-    },
-    {
-      "id": 3,
-      "Nom de projet": "Projet Gamma",
-      "responsable": "Charlie",
-      "status de projet": "En cours",
-      "date debut": "2023-03-20",
-      "date fin": "2023-07-10"
-    },
-    {
-      "id": 4,
-      "Nom de projet": "Projet Delta",
-      "responsable": "David",
-      "status de projet": "En attente",
-      "date debut": "2023-04-25",
-      "date fin": "2023-08-15"
-    },
-    {
-      "id": 5,
-      "Nom de projet": "Projet Epsilon",
-      "responsable": "Eve",
-      "status de projet": "En cours",
-      "date debut": "2023-05-30",
-      "date fin": "2023-09-20"
-    },
-    {
-      "id": 6,
-      "Nom de projet": "Projet Zeta",
-      "responsable": "Frank",
-      "status de projet": "En cours",
-      "date debut": "2023-06-10",
-      "date fin": "2023-10-30"
-    },
-    {
-      "id": 7,
-      "Nom de projet": "Projet Eta",
-      "responsable": "Grace",
-      "status de projet": "Terminé",
-      "date debut": "2023-07-15",
-      "date fin": "2023-11-15"
-    },
-    {
-      "id": 8,
-      "Nom de projet": "Projet Theta",
-      "responsable": "Henry",
-      "status de projet": "En attente",
-      "date debut": "2023-08-20",
-      "date fin": "2023-12-10"
-    },
-    {
-      "id": 9,
-      "Nom de projet": "Projet Iota",
-      "responsable": "Isabel",
-      "status de projet": "En cours",
-      "date debut": "2023-09-25",
-      "date fin": "2024-01-20"
-    },
-    {
-      "id": 10,
-      "Nom de projet": "Projet Kappa",
-      "responsable": "John",
-      "status de projet": "En cours",
-      "date debut": "2023-10-30",
-      "date fin": "2024-02-15"
-    },
-    {
-        "id": 11,
-        "Nom de projet": "Projet Lambda",
-        "responsable": "Laura",
-        "status de projet": "En cours",
-        "date debut": "2023-11-05",
-        "date fin": "2024-03-10"
-      },
-      {
-        "id": 12,
-        "Nom de projet": "Projet Mu",
-        "responsable": "Michael",
-        "status de projet": "En attente",
-        "date debut": "2023-12-10",
-        "date fin": "2024-04-20"
-      },
-      {
-        "id": 13,
-        "Nom de projet": "Projet Nu",
-        "responsable": "Nancy",
-        "status de projet": "En cours",
-        "date debut": "2024-01-15",
-        "date fin": "2024-05-30"
-      },
-      {
-        "id": 14,
-        "Nom de projet": "Projet Xi",
-        "responsable": "Oscar",
-        "status de projet": "Terminé",
-        "date debut": "2024-02-20",
-        "date fin": "2024-06-10"
-      },
-      {
-        "id": 15,
-        "Nom de projet": "Projet Omicron",
-        "responsable": "Olivia",
-        "status de projet": "En cours",
-        "date debut": "2024-03-25",
-        "date fin": "2024-07-20"
-      },
-      {
-        "id": 16,
-        "Nom de projet": "Projet Pi",
-        "responsable": "Peter",
-        "status de projet": "En cours",
-        "date debut": "2024-04-30",
-        "date fin": "2024-08-30"
-      },
-      {
-        "id": 17,
-        "Nom de projet": "Projet Rho",
-        "responsable": "Rachel",
-        "status de projet": "En attente",
-        "date debut": "2024-05-05",
-        "date fin": "2024-09-10"
-      },
-      {
-        "id": 18,
-        "Nom de projet": "Projet Sigma",
-        "responsable": "Samuel",
-        "status de projet": "En cours",
-        "date debut": "2024-06-10",
-        "date fin": "2024-10-20"
-      },
-      {
-        "id": 19,
-        "Nom de projet": "Projet Tau",
-        "responsable": "Tina",
-        "status de projet": "En cours",
-        "date debut": "2024-07-15",
-        "date fin": "2024-11-30"
-      },
-      {
-        "id": 20,
-        "Nom de projet": "Projet Upsilon",
-        "responsable": "Umberto",
-        "status de projet": "Terminé",
-        "date debut": "2024-08-20",
-        "date fin": "2024-12-15"
-      }
-    
-  ]
-  
+  {
+    "Nom de projet": "Projet A",
+    "Cle": "CLE123",
+    "Responsable": "John Doe",
+    "Cahier de charge": "https://exemple.com/cahier_de_charge_A.pdf"
+  },
+  {
+    "Nom de projet": "Projet B",
+    "Cle": "CLE456",
+    "Responsable": "Jane Smith",
+    "Cahier de charge": "https://exemple.com/cahier_de_charge_B.pdf"
+  },
+  {
+    "Nom de projet": "Projet C",
+    "Cle": "CLE789",
+    "Responsable": "Alice Johnson",
+    "Cahier de charge": "https://exemple.com/cahier_de_charge_C.pdf"
+  }
+]
